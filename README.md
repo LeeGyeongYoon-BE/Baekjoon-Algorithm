@@ -36,6 +36,7 @@
 | 15649 | [N과 M (1)](https://www.acmicpc.net/problem/15649) | [코드보기](./silver/15649.java) | 순열, DFS |
 | 2529 | [부등호](https://www.acmicpc.net/problem/2529) | [코드보기](./silver/2529.java) | 부등호 탐색 |
 | 12101 | [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101) | [코드보기](./silver/12101.java) | 조합 생성, k번째 수 |
+| 16198 | [에너지 모으기](https://www.acmicpc.net/problem/16198) | [코드보기](./silver/16198.java) | 최댓값 |
 
 ---
 
