@@ -1,3 +1,11 @@
+// 백준 12101번 - 1, 2, 3 더하기 2
+// https://www.acmicpc.net/problem/12101
+// 알고리즘 분류: 백트래킹(DFS)
+// 풀이 아이디어:
+// - DFS로 1,2,3의 조합을 만들어서 합이 N이 되는 경우 탐색
+// - k번째 수열만 출력하도록 카운트 관리
+
+
 import java.io.*;
 import java.util.*;
 
