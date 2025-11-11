@@ -55,7 +55,7 @@
 | 알고리즘 | BFS | [코드보기](./concept/BFS.java) |
 | 알고리즘 | 백 트래킹 | [코드보기](./concept/backTracking.java) |
 | 알고리즘 | 분할 정복 | [코드보기](./concept/divideConquer.java) |
-| 알고리즘 | 동적 기획 | [코드보기](./concept/dynamicProgramming.java) |
+| 알고리즘 | 동적 기획법 | [코드보기](./concept/dynamicProgramming.java) |
 | 알고리즘 | 좌표 압축 | [코드보기](./concept/coordinateCompression.java) |
 | 알고리즘 | 비트마스크 | [코드보기](./concept/bitMask.java) |
 | 알고리즘 | 유니온 파인드 | [코드보기](./concept/unionFind.java) |
