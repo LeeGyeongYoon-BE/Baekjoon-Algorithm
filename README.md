@@ -27,8 +27,8 @@
 | 수학 | 소수 구하기 | [코드보기](./concept/primeNumber.java) |
 | 수학 | 에라토스테네스의 체 | [코드보기](./concept/sieveOfEratosthenes.java) |
 | 수학 | 유클리드 호제법 | [코드보기](./concept/euclid.java) |
-| 수학 | 조합 | [코드보기](./concept/Combination.java) |
-| 수학 | 순열 | [코드보기](./concept/Permutation.java) |
+| 수학 | 조합 | [코드보기](./concept/combination.java) |
+| 수학 | 순열 | [코드보기](./concept/permutation.java) |
 | 수학 | 부분 집합 | [코드보기](./concept/subset.java) |
 | 정렬 | 거품 정렬 | [코드보기](./concept/bubbleSort.java) |
 | 정렬 | 선택 정렬 | [코드보기](./concept/selectionSort.java) |
