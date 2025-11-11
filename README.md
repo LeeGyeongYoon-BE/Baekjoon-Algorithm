@@ -30,7 +30,7 @@
 | 수학 | 조합 | [코드보기](./concept/combination.java) |
 | 수학 | 순열 | [코드보기](./concept/permutation.java) |
 | 수학 | 부분 집합 | [코드보기](./concept/subset.java) |
-| 정렬 | 거품 정렬 | [코드보기](./concept/bubbleSort.java) |
+| 정렬 | 버블 정렬 | [코드보기](./concept/bubbleSort.java) |
 | 정렬 | 선택 정렬 | [코드보기](./concept/selectionSort.java) |
 | 정렬 | 삽입 정렬 | [코드보기](./concept/insertionSort.java) |
 | 정렬 | 퀵 정렬 | [코드보기](./concept/quickSort.java) |
