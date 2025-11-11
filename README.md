@@ -88,25 +88,26 @@
 |------|------|------|-----------|
 | 1940 | [주몽](https://www.acmicpc.net/problem/1940) | [코드보기](./백준/Silver/1940. 주몽) | 두 포인터 |
 | 12891 | [DNA 비밀번호](https://www.acmicpc.net/problem/12891) | [코드보기](./백준/Silver/12891. DNA 비밀번호) | 문자열, 슬라이딩 윈도우 |
-| 2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | [코드보기](./bronze/2750.java) | 구현 |
-| 1377 | [버블 소트](https://www.acmicpc.net/problem/1377) | [코드보기](./gold/1377.java) | Bubble Sort |
-| 1427 | [소트인사이드](https://www.acmicpc.net/problem/1427) | [코드보기](./silver/1427.java) | 문자열 |
-| 11399 | [ATM](https://www.acmicpc.net/problem/11399) | [코드보기](./silver/11399.java) | Greedy |
-| 11004 | [K번째 수](https://www.acmicpc.net/problem/11004) | [코드보기](./silver/11004.java) | 구현 |
-| 2751 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [코드보기](./silver/2751.java) | 구현 |
+| 2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | [코드보기](./백준/Bronze/2750. 수 정렬하기) | 구현 |
+| 1377 | [버블 소트](https://www.acmicpc.net/problem/1377) | [코드보기](./백준/Gold/1377. 버블 소트) | Bubble Sort |
+| 1427 | [소트인사이드](https://www.acmicpc.net/problem/1427) | [코드보기](./백준/Silver/1427. 소트인사이드) | 문자열 |
+| 11399 | [ATM](https://www.acmicpc.net/problem/11399) | [코드보기](./백준/Silver/11399. ATM) | Greedy |
+| 11004 | [K번째 수](https://www.acmicpc.net/problem/11004) | [코드보기](./백준/Silver/11004. K번째 수) | 구현 |
+| 2751 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [코드보기](./백준/Silver/2751. 수 정렬하기 2) | 구현 |
 
 ---
 
 ### 🧱 자료구조 (Data Structure)
 | 번호 | 문제 | 코드 | 주요 개념 |
 |------|------|------|-----------|
+| 10828 | [스택](https://www.acmicpc.net/problem/10828) | [코드보기](./백준/Silver/10828. 스택) | Stack |
 | 11003 | [최솟값 찾기](https://www.acmicpc.net/problem/11003) | [코드보기](./백준/Platinum/11003. 최솟값 찾기) | Priority Queue, Deque |
 | 9012 | [괄호](https://www.acmicpc.net/problem/9012) | [코드보기](./백준/Silver/9012. 괄호) | Stack |
 | 6198 | [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198) | [코드보기](./백준/Gold/6198. 옥상 정원 꾸미기) | Stack |
-| 1874 | [스택 수열](https://www.acmicpc.net/problem/1894) | [코드보기](./silver/1894.java) | Stack |
-| 17298 | [오큰수](https://www.acmicpc.net/problem/17298) | [코드보기](./gold/17298.java) | Stack |
-| 2164 | [카드2](https://www.acmicpc.net/problem/2164) | [코드보기](./silver/2164.java) | Queue |
-| 11286 | [절댓값 힙](https://www.acmicpc.net/problem/11286) | [코드보기](./silver/11286.java) | Priority Queue |
+| 1874 | [스택 수열](https://www.acmicpc.net/problem/1894) | [코드보기](./백준/Silver/1874. 스택 수열) | Stack |
+| 17298 | [오큰수](https://www.acmicpc.net/problem/17298) | [코드보기](./백준/Gold/17298. 오큰수) | Stack |
+| 2164 | [카드2](https://www.acmicpc.net/problem/2164) | [코드보기](./백준/Silver/2164. 카드2) | Queue |
+| 11286 | [절댓값 힙](https://www.acmicpc.net/problem/11286) | [코드보기](./백준/Silver/11286. 절댓값 힙) | Priority Queue |
 
 ---
 
