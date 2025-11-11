@@ -78,7 +78,7 @@
 | 1546 | [평균](https://www.acmicpc.net/problem/1546) | [코드보기](./bronze/1546.java) | 사칙연산 |
 | 11659 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [코드보기](./silver/11659.java) | 누적 합 |
 | 11660 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) | [코드보기](./silver/11660.java) | 누적 합, DP |
-| 10986 | [나머지 합](https://www.acmicpc.net/problem/10986) | [코드보기](./gold/10986.java) | 누적 합 |
+| 10986 | [나머지 합](https://www.acmicpc.net/problem/10986) | [코드보기](./백준/Gold/10986.java) | 누적 합 |
 | 2018 | [수들의 합 5](https://www.acmicpc.net/problem/2018) | [코드보기](./silver/2018.java) | 두 포인터 |
 
 ---
