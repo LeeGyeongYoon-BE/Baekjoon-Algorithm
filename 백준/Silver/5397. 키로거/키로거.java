@@ -1,39 +1,45 @@
 import java.io.*;
 import java.util.*;
 
-class Main
-{
-    public static void main (String[] args) throws IOException {
-
+public class Main {
+    public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringBuilder sb = new StringBuilder();
-        int N = Integer.parseInt(br.readLine());
+        int T = Integer.parseInt(br.readLine());
 
-        for (int i = 0; i < N; i++) {
+        while (T-- > 0) {
+            String input = br.readLine();
 
-            String str = br.readLine();
-            List<Character> list = new LinkedList<>();
-            int idx = 0;
+            Stack<Character> left = new Stack<>();
+            Stack<Character> right = new Stack<>();
 
-            for (int j = 0; j < str.length(); j++) {
-                char c = str.charAt(j);
-
-                if ( c == '<') {
-                    idx -= idx == 0 ? 0 : 1;
-                } else if ( c == '>') {
-                    idx += idx < list.size()? 1 : 0;
-                } else if ( c == '-') {
-                    if (idx > 0) list.remove(--idx);
+            for (char c : input.toCharArray()) {
+                if (c == '<') {
+                    if (!left.isEmpty()) {
+                        right.push(left.pop());
+                    } // if
+                } else if (c == '>') {
+                    if (!right.isEmpty()) {
+                        left.push(right.pop());
+                    } // if
+                } else if (c == '-') {
+                    if (!left.isEmpty()) {
+                        left.pop();
+                    } // if
                 } else {
-                    list.add(idx++, c);
-                }
-            } // for - j
+                    left.push(c);
+                } // if ~ else
+            } // for
 
-            for (char c : list) sb.append(c);
-            sb.append("\n");
-        } // for - i
+            StringBuilder sb = new StringBuilder();
 
-        System.out.println(sb.toString());
-        br.close();
+            while (!left.isEmpty()) {
+                right.push(left.pop());
+            } // while
+            while (!right.isEmpty()) {
+                sb.append(right.pop());
+            } // while
+
+            System.out.println(sb);
+        } // while
     } // main
 } // class
